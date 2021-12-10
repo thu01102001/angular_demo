@@ -1,0 +1,16 @@
+.btnClick {
+    padding: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    color: brown;
+    background-color: chartreuse;
+    font-weight: bold;
+    font: 20px;
+    cursor: pointer;
+}
+.btnClick:hover {
+    background: darkgray;
+    transform: scale(1.1);
+    transition: 0.3s;
+}

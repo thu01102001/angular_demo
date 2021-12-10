@@ -1,0 +1,14 @@
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+}
+ul {
+    display: flex;
+    list-style: none;
+    font-size: 27px;
+    color: white;
+    justify-content: space-around;
+    line-height: 49px;
+}
